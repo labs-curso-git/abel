@@ -4,4 +4,5 @@ Prácticas con Git
 
 Juego de tecleo
 
-## Cambio en local
+## Ni cambio en local ni PROVOCANDO CONFLICTO. Conflicto solventado a mano
+
